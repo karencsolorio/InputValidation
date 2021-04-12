@@ -1,0 +1,26 @@
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.exe
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.deps.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.runtimeconfig.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.runtimeconfig.dev.json
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.dll
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.pdb
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.csprojAssemblyReference.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.AssemblyInfoInputs.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.AssemblyInfo.cs
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.csproj.CoreCompileInputs.cache
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.dll
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.pdb
+C:\Users\Karen\OneDrive\Programming Bootcamp\Assignments and Answers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.genruntimeconfig.cache
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.exe
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.deps.json
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.runtimeconfig.json
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.runtimeconfig.dev.json
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.dll
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\bin\Debug\netcoreapp3.1\Input Validation Projects.pdb
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.csprojAssemblyReference.cache
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.AssemblyInfoInputs.cache
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.AssemblyInfo.cs
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.csproj.CoreCompileInputs.cache
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.dll
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.pdb
+D:\ProgrammingBootcamp\AssignmentsandAnswers\Week 7 - October 29, 2020\Input Validation Projects\Input Validation Projects\obj\Debug\netcoreapp3.1\Input Validation Projects.genruntimeconfig.cache
